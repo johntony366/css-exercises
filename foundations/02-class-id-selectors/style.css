@@ -1,0 +1,20 @@
+.OddNumbers {
+    background-color: #dc0489;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#Two {
+    color: blue;
+    font-size: 36px;
+}
+
+.OddNumbers#Three {
+    font-size: 24px;
+}
+
+#Four {
+    background-color:#78e798;
+    font-size: 24px;
+    font-weight: bold;
+}
+
